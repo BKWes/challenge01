@@ -8,7 +8,7 @@ A company that specializes in search engine optimization, online reputation mana
 Contributor: Weston Barnes
 GitHub Page: https://bkwes.github.io/challenge01/
 
-
+![alt text](assets\images\working-site-screenshot.png)
 
 #### Acceptance Criteria:
 GIVEN a webpage meets accessibility standards
