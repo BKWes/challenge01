@@ -19,8 +19,8 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-/*added semantic element selector*/
-header h1 .seo {
+/*removed extra selectors, only used class*/
+.seo {
     color: #d9dcd6;
 }
 /*added semantic element selector*/
@@ -59,7 +59,7 @@ p {
 }
 
 .content {
-    width: 75%;
+    width: 77%;
     display: inline-block;
     margin-left: 20px;
 }
@@ -89,7 +89,9 @@ p {
     font-size: 42px;
 }
 /*removed individual artle h2 selectors*/
-
+.content-box p {
+    font-size: 20px;
+}
 /*added semantic element selector*/
 /*moved float selectors down to flow with HTML*/
 .float-left {
@@ -104,7 +106,7 @@ p {
 
 .benefits {
     margin-right: 20px;
-    padding: 20px;
+    padding: 20px 20px 50px 20px;
     clear: both;
     float: right;
     width: 20%;
@@ -115,7 +117,8 @@ p {
 /*removed individual benefit classes and used one class to select all 3 sections
 removed extra css selectors and added .benefit to apply to all 3*/
 .benefit {
-    margin-bottom: 32px;
+    /*increased margin-bottom value to match mockup*/
+    margin-bottom: 60px;
     color: #ffffff;
 }
 /*benefit sections consolidated into one class*/
