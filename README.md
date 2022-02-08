@@ -2,7 +2,7 @@
 ## Horiseon
 
 ### Description:
-A company that specializes in search engine optimization, online reputation management, and social media marketing. This page, written in HTML and CSS, has been refactored for challenge 01. Semantic elements and logical flow were applied to the existing HTML file as well as image alt attributes to improve search engine optimization. The CSS file was also updated to semantic selectors and was reorganized to follow the flow of the HTML document. Some CSS selectors were consolidated or removed in order to run more efficiently and to be read more easily by another developer. The acceptance criteria followed is listed below.
+A company that specializes in search engine optimization, online reputation management, and social media marketing. This page, written in HTML and CSS, has been refactored for challenge 01. Semantic elements and logical flow were applied to the existing HTML file as well as image alt attributes to improve search engine optimization. The CSS file was also updated to semantic selectors and was reorganized to follow the flow of the HTML document. Some CSS selectors were consolidated or removed in order to run more efficiently and to be read easier by another developer. The acceptance criteria followed is listed below.
 
 ### Contributors and Website:
 Contributor: Weston Barnes
